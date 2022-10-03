@@ -6,6 +6,6 @@ The model is trained on various algorithms like Logistic Regression, Naive Bayes
 
 The comparison of accuracy of the different algorithms is also made and showed in a graphical manner.
 
-Hope you find it useful!!
+Hope you find it useful!!😄😄😊😊😍😍
 
 Thanking You!!
